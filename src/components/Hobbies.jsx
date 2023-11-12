@@ -5,18 +5,18 @@ function Hobbies() {
     const hobbies = [
         {
             id: 1,
-            nombre: 'Senderismo',
-            descripcion: 'Explorar montañas y disfrutar de la naturaleza.',
+            nombre: 'Estudiante',
+            descripcion: 'Siempre esta bueno seguir aprendiendo',
         },
         {
             id: 2,
-            nombre: 'Fotografía',
-            descripcion: 'Capturar momentos especiales con mi cámara.',
+            nombre: 'Jugador de futbol',
+            descripcion: 'Juego con amigos',
         },
         {
             id: 3,
-            nombre: 'Pintura al óleo',
-            descripcion: 'Crear obras de arte en lienzo.',
+            nombre: 'Agricultura',
+            descripcion: 'Asesoro a productores',
         },
         {
             id: 4,
